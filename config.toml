@@ -1,4 +1,28 @@
-baseURL = "http://example.org/"
+baseURL = "http://worldpotato.github.io/"
 languageCode = "en-us"
 title = "Worldpotato"
 theme = "hugo-notepadium"
+
+# custom navigation items
+# light/dark mode
+[params]
+style = "light"  # default: "auto", based on system. "light": light theme, "dark": dark theme.
+licence = "CC-BY-SA"
+
+[params.nav]
+showTags = true             # /tags/
+
+[[params.nav.custom]]
+title = "About"
+url = "/about/about/"
+
+[[params.nav.custom]]
+title = "University"
+url = "/university"
+
+# syntax highlighting
+[params.syntax]
+use = "none"  # builtin: "prismjs", "hljs". "none" means Chroma
+theme = "dracula"
+darkTheme = "xcode-dark"  # apply this theme in dark mode
+
