@@ -6,7 +6,7 @@ theme = "hugo-notepadium"
 # custom navigation items
 # light/dark mode
 [params]
-style = "light"  # default: "auto", based on system. "light": light theme, "dark": dark theme.
+style = "auto"  # default: "auto", based on system. "light": light theme, "dark": dark theme.
 licence = "CC-BY-SA"
 
 [params.nav]
@@ -19,6 +19,14 @@ url = "/about/about/"
 [[params.nav.custom]]
 title = "University"
 url = "/university"
+
+[[params.nav.custom]]
+title = "Linux"
+url = "/linux"
+
+[[params.nav.custom]]
+title = "Development"
+url = "/development"
 
 # syntax highlighting
 [params.syntax]

@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-date: 2020-01-17T13:11:21+01:00
+date: 2020-01-17T14:11:21+01:00
 draft: false
 ---
 
@@ -10,7 +10,7 @@ draft: false
 
 Replace the first dot with @
 
-[GPG Key](../gpgkey/)
+[GPG Key](../../gpgkey/gpgkey)
 
 # Threema
 
