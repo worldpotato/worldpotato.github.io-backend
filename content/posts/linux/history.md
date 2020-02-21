@@ -2,7 +2,7 @@
 title: "How I came to Linux"
 date: 2020-01-30T22:05:49+01:00
 draft: false
-tags: ["ubuntu", "arch", "linux", "open source", "GNU"]
+tags: ["Ubuntu", "Linux", "Open Source", "GNU", "Arch"]
 ---
 
 OK, lets start at my first experience with GNU/Linux.

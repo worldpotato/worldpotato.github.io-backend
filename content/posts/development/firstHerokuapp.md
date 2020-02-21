@@ -2,7 +2,7 @@
 title: "First Heroku App"
 date: 2020-02-01T09:57:42+01:00
 draft: false
-tags: ["development", "heroku", "django", "python", "hello world"]
+tags: ["Development", "Heroku", "Django", "Python", "Hello World"]
 ---
 
 Yesterday was a day full of procrastination.
@@ -40,7 +40,7 @@ So creating them, committing, merging and wait for the deploy just take some min
 
 And look! My first Heroku app runs! You can see it under [shiftpotato.herokuapp.com](shiftpotato.herokuapp.com).
 
-Like you may think. I want to build a open source shiftplaner. Mostly for the treetopadventure park where I work from time to time.
+Like you may think. I want to build a open source shift planer. Mostly for the treetop adventure park where I work from time to time.
 
 I'll work on it in the next weeks. Maybe we can actually use it.
 

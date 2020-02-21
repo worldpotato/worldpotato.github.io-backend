@@ -1,13 +1,3 @@
----
-title: "Gpgkey"
-date: 2020-01-17T14:31:50+01:00
-draft: false
----
-# Public GPG Key
-
-Fingerprint `09A8 29F9 B447 D7B2 2F1C  B7C5 4D7B 8D48 C03D BAE3`
-
-```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: SKS 1.1.6
 Comment: Hostname: pgpkeys.co.uk
@@ -38,5 +28,3 @@ q/glnZmbpafAZbUd7WXTPWO/LS1LDMGzoghThLQx1cT0lwSl458dVqe/GxlmQO1yL00Wh4Vt
 vQ5zsU1zOL3FFPsPkd5z
 =bguL
 -----END PGP PUBLIC KEY BLOCK-----
-
-```
