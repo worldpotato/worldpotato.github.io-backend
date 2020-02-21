@@ -1,32 +1,34 @@
-baseURL = "http://worldpotato.github.io/"
+baseURL = "http://worldpotato.github.io"
 languageCode = "en-us"
 title = "Worldpotato"
+copyright = "CC-BY-SA Worldpotato."
 theme = "hugo-notepadium"
 
 # custom navigation items
 # light/dark mode
 [params]
-style = "auto"  # default: "auto", based on system. "light": light theme, "dark": dark theme.
+style = "light"  # default: "auto", based on system. "light": light theme, "dark": dark theme.
 licence = "CC-BY-SA"
 
 [params.nav]
 showTags = true             # /tags/
+dateFormat = "Monday, January 2, 2006"
 
 [[params.nav.custom]]
 title = "About"
-url = "/about/about/"
+url = "/about"
 
 [[params.nav.custom]]
 title = "University"
-url = "/university"
+url = "/posts/university"
 
 [[params.nav.custom]]
 title = "Linux"
-url = "/linux"
+url = "/posts/linux"
 
 [[params.nav.custom]]
 title = "Development"
-url = "/development"
+url = "/posts/development"
 
 # syntax highlighting
 [params.syntax]
