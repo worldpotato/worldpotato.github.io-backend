@@ -7,8 +7,9 @@ theme = "hugo-notepadium"
 # custom navigation items
 # light/dark mode
 [params]
-style = "light"  # default: "auto", based on system. "light": light theme, "dark": dark theme.
+style = "auto"  # default: "auto", based on system. "light": light theme, "dark": dark theme.
 licence = "CC-BY-SA"
+slogan = "Me and my potato world"
 
 [params.nav]
 showTags = true             # /tags/
@@ -36,3 +37,6 @@ use = "none"  # builtin: "prismjs", "hljs". "none" means Chroma
 theme = "dracula"
 darkTheme = "xcode-dark"  # apply this theme in dark mode
 
+[markup.highlight]
+codeFences = true
+noClasses = false
